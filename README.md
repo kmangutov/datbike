@@ -6,6 +6,6 @@ Information to add:
 - Passenger / weight supported
 - Confirmed range
 - Confirmed charge speed
-- Status of development?
+- Status of development (updates * timeline)
 - How to buy?
 - How to test drive?
