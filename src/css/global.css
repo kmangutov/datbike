@@ -1,0 +1,28 @@
+
+
+.plaster {
+	font-family: 'Rubik Mono One', cursive;
+}
+
+
+.datbike {
+  background: url("../images/datbike.png");
+  width: 64px;
+  height: 64px;
+  background-size: 64px 64px;
+  background-position: center;
+  border-radius: 0px;
+  position: absolute;
+}
+
+.bullet h4 {
+	padding: 8px;
+}
+
+.bullet p {
+
+}
+
+.contact { 
+	margin-bottom: 0px;
+}
