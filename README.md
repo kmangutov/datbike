@@ -1,6 +1,7 @@
 Information to add:
 
 - Price
+- Preorder information / link
 - Feature comparison against competitor
 - Passenger / weight supported
 - Confirmed range
